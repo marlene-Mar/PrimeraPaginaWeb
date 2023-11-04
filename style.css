@@ -1,0 +1,82 @@
+/* selector {
+        propiedad : valor;
+        pripiedad: valor;
+} */
+/* Cambiando el color de fondo */
+body{
+    /* color de fondo */
+    background-color:#d0dce7;
+    /* color de texto */
+    color : #3c312f;
+    /* cambia el tipo de letra */
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+}
+
+h1{
+    color: #412843;
+    font-family: 'Libre Baskerville', serif;
+    font-size: xx-large;
+}
+
+h3{
+    color : #653d5d;
+}
+
+a{
+    color : #2e1500;
+    margin-left: 35px;
+}
+
+/* cambiar tamaño */
+img{
+    /* width ancho, heigth:alto */
+    width: 750px;
+}
+
+.grupo{
+    width: 800px;
+    border-radius: 5%;
+    box-shadow: 1px 0px 30px #005699; 
+    margin-left: 50px;
+}
+
+.changbin{
+    width: 500px;
+    /* bordes redondeados 100% imagenes redondas*/
+    border-radius: 20%; 
+    /* sombras */
+    box-shadow: 1px 0px 50px #02030e;
+}
+
+.lightstick{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    border-radius: 5% ;
+    margin-bottom: 20px;
+}
+
+.skzoo{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 300px;
+    border-radius: 5% ;
+    margin-bottom: 20px;
+
+}
+
+.bongocat{
+    width: 500 px;
+    /* bordes redondeados 100% imagenes redondas*/
+    border-radius: 100%; 
+}
+
+.insta{
+    width: 200px;
+}
+
+.YT{
+    width: 350px;
+    margin-left: 70px;
+}
